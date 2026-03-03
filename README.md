@@ -44,7 +44,7 @@
 
 ## 🛠️ Technical Skills  
 - **Languages:** Java, JavaScript, TypeScript  
-- **Automation Tools:** Selenium, Appium, Cypress, REST Assured, TestNG, Cucumber (BDD)  
+- **Automation Tools:** Selenium, Appium, Cypress, Playwright, REST Assured, TestNG, Cucumber (BDD)  
 - **Cloud Platforms:** BrowserStack, Sauce Labs, HeadSpin  
 - **Build Tools:** Maven  
 - **Version Control:** Git, Bitbucket  
