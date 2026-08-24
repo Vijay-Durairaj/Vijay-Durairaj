@@ -2,7 +2,7 @@
 
 **🚀 Senior QA Automation Engineer** | **12+ years** building scalable test automation | **Now modernizing with K6, Python & Infrastructure Testing**
 
-📍 New Jersey, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-durairaj/) | 💼 [Projects](#-featured-projects) | 📧 [Email](mailto:vijay.qa@example.com)
+📍 New Jersey, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-durairaj/) | 💼 [Projects](#-featured-projects) | 📧 [Email](mailto:vijaydurairajd@gmail.com)
 
 ---
 
@@ -358,7 +358,7 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-durairaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijay-Durairaj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijay.qa@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaydurairajd@gmail.com)
 
 **Open to discussing:**
 - 🎯 Test automation strategy & framework design
