@@ -1,270 +1,353 @@
 # 👋 Hi, I'm Vijay Durairaj
 
-**Senior QA Automation Engineer** | 12+ years building scalable test automation | Modernizing the stack with **K6, Python, and Infrastructure Testing**
+**🚀 Senior QA Automation Engineer** | **12+ years** building scalable test automation | **Now modernizing with K6, Python & Infrastructure Testing**
 
-📍 New Jersey, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-durairaj/) | 💼 [Portfolio](#featured-projects)
+📍 New Jersey, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-durairaj/) | 💼 [Portfolio](#-featured-projects) | 📧 [Email](mailto:vijay.qa@example.com)
 
 ---
 
 ## 🎯 What I Do
 
-I engineer test automation solutions that scale with products. I've built frameworks handling **10K+ daily test cases**, optimized mobile testing across **500+ real devices**, and automated infrastructure testing in **Kubernetes clusters**. 
+🔹 **Test Automation Architect** — Build 10K+ daily test cases, 60% faster execution, 99.5% reliability  
+🔹 **Performance Engineering Lead** — K6 load testing, Grafana dashboards, SLA monitoring  
+🔹 **QA Leadership** — Team mentoring, best practices, strategic advisory  
 
-My strength: taking complex QA challenges and building frameworks that teams actually want to use.
+I engineer test automation solutions that **scale with products**. My strength: taking complex QA challenges and building frameworks that teams **actually want to use**.
 
-**Current Focus:** Modernizing my automation stack—diving deep into **K6 performance testing**, **Python-based frameworks**, and **observability-driven QA** (Grafana, Prometheus).
+**Current Focus:** 🚀 Modernizing automation stack—**K6 performance testing**, **Python frameworks**, **Grafana observability**
 
 ---
 
-## 📊 Impact & Achievements
+## 📊 Impact & Key Achievements
 
 | Metric | Achievement | Impact |
-|--------|-------------|--------|
-| ⚡ **Execution Speed** | 60% faster | Parallel execution optimization |
-| ✅ **Test Reliability** | 99.5% | Smart retry logic & stability |
-| 🎨 **Shadow DOM** | 40% optimization | Complex element handling |
-| 🐛 **Bug Escape** | 45% reduction | CI/CD integration & early detection |
-| 👥 **Mentoring** | 8+ engineers | Leadership & knowledge transfer |
-| 📉 **Manual Testing** | 65% reduction | Automation coverage expansion |
+|--------|------------|--------|
+| ⚡ **60%** | Faster Execution | Parallel execution optimization |
+| ✅ **99.5%** | Test Reliability | Smart retry logic & stability |
+| 🎨 **40%** | DOM Optimization | Complex element handling |
+| 🐛 **45%** | Bug Reduction | CI/CD integration |
+| 👥 **8+** | Engineers Mentored | Leadership & knowledge transfer |
+| 📉 **65%** | Manual Testing Cut | Automation coverage expansion |
 
 ---
 
-## 💼 Professional Skills
+## 🛠️ Technology Stack
 
-### **Test Automation Framework Design & Development**
+### **🌐 Languages & Frameworks**
 
-Expertise in creating **scalable, modular, and reusable automation frameworks** using Selenium, Cypress, Appium, and REST Assured. Skilled in designing frameworks that support **BDD (Cucumber)** and hybrid approaches. Strong experience with **POM, Data-Driven, and Keyword-Driven** designs.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **🤖 Web & Mobile Automation**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-16A085?style=for-the-badge&logo=appium&logoColor=white)
+
+### **🔥 Performance & Load Testing**
+
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D84315?style=for-the-badge&logo=apache&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### **📡 API & Microservices Testing**
+
+![REST Assured](https://img.shields.io/badge/REST%20Assured-009B77?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **☁️ Cloud & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### **🔄 CI/CD & DevOps**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### **📊 Testing & Tools**
+
+![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 Professional Skills & Expertise
+
+### **1️⃣ Test Automation Framework Design & Development**
+
+**Proficiency: 95%** ████████████████████░░
+
+Expertise in **scalable, modular frameworks** using Selenium, Cypress, Appium, REST Assured
 
 **Key Achievements:**
-- ✅ Designed production-grade frameworks handling 10K+ test cases
-- ✅ Reduced test execution time by 60% through parallel execution
-- ✅ Maintained 99.5% test reliability through smart retry logic
-- ✅ Optimized Shadow DOM handling, cutting automation effort by 40%
+- ✅ Designed frameworks handling **10K+ test cases**
+- ✅ **60% faster** execution through parallel processing
+- ✅ Maintained **99.5% test reliability** with smart retry logic
+- ✅ Optimized **Shadow DOM** handling (**40% improvement**)
+- ✅ POM, Data-Driven & Keyword-Driven design patterns
+- ✅ BDD (Cucumber) framework implementation
 
-### **Web, Mobile, and API Automation**
+---
 
-Extensive experience automating **web applications** across browsers using Selenium and Cypress. Developed robust **mobile automation** using Appium on both real devices and cloud platforms (BrowserStack, Sauce Labs, HeadSpin). Strong expertise in **API testing** with REST Assured and Postman.
+### **2️⃣ Web, Mobile & API Automation**
 
-**Key Achievements:**
-- ✅ Optimized mobile testing across 500+ real devices
-- ✅ Implemented API testing with 99%+ coverage
-- ✅ Reduced test flakiness to <1% through smart waits
-- ✅ Validated complex JSON payloads with custom assertions
+**Proficiency: 90%** ███████████████████░░
 
-### **Performance & Load Testing** 🔥 **(New Focus)**
-
-Building **K6 performance testing frameworks** for real-world load scenarios. Integrating K6 results with **Grafana dashboards** for real-time SLA monitoring. Setting up **infrastructure load testing** to catch performance regressions early.
+Extensive experience across **web, mobile, and API** testing domains
 
 **Key Achievements:**
-- 🔥 Building production-grade load testing framework
+- ✅ Optimized testing across **500+ real devices**
+- ✅ **99%+ API coverage** with REST Assured & Postman
+- ✅ Reduced test flakiness to **<1%** with smart waits
+- ✅ Complex JSON payload validation & assertions
+- ✅ Cross-browser testing (Chrome, Firefox, Safari, Edge)
+- ✅ Cloud platform testing (BrowserStack, Sauce Labs, HeadSpin)
+
+---
+
+### **3️⃣ Performance & Load Testing** 🔥 **NEW FOCUS**
+
+**Proficiency: 85%** ████████████████░░
+
+Building **K6 performance frameworks** for production-grade load testing
+
+**Key Achievements:**
+- 🔥 Production-grade K6 load testing framework
 - 📊 Real-time Grafana dashboard integration
-- ✅ SLA validation in CI/CD pipeline
-- 🎯 Microservices performance testing
-
-### **CI/CD & DevOps Integration**
-
-Integrated automated test suites into **CI/CD pipelines** using Jenkins and GitHub Actions. Automated build and deployment pipelines with **Maven** for faster feedback cycles. Improved defect detection rates by embedding automation within Agile delivery cycles.
-
-**Key Achievements:**
-- ✅ Embedded QA in CI/CD pipeline (reduced bug escape by 45%)
-- ✅ Automated build and deployment processes
-- ✅ Reduced feedback cycle from 4 hours to 15 minutes
-- ✅ Implemented automated test gates for production deployments
-
-### **Agile & Quality Leadership**
-
-Led QA teams in Agile/Scrum environments, ensuring **on-time delivery with high quality**. Mentored team members, established **best coding practices**, and improved coding standards by 20%. Experienced in **Agile, SAFE Agile, and Kanban** methodologies.
-
-**Key Achievements:**
-- ✅ Mentored 8+ QA engineers
-- ✅ Established coding standards across teams
-- ✅ Improved team productivity by 20%
-- ✅ Led QA in Agile/Scrum with 100% on-time delivery
-
-### **Cross-Domain Expertise**
-
-Hands-on experience testing applications in multiple domains:
-
-| Domain | Experience |
-|--------|------------|
-| 🏦 **Banking & Finance** | On-Card Lending, Off-Card Lending, Credit Card Services |
-| 🛒 **Retail & E-commerce** | Shopping platforms, payment gateways |
-| 📱 **Telecom** | Mobile apps, network services |
-| 🏥 **Healthcare** | Patient portals, medical devices |
-| 📈 **Insurance & Capital Markets** | Policy management, trading platforms |
-
-Ability to quickly adapt QA strategies to domain-specific needs and compliance requirements.
-
-### **Problem Solving & Innovation**
-
-Introduced **no-code/low-code automation solutions**, reducing manual effort by 15%. Optimized handling of Shadow DOM elements, cutting automation effort by 40%. Applied **AI-enhanced automation scripts** to handle dynamic UI element changes reliably.
-
-**Key Achievements:**
-- ✅ Implemented AI-enhanced scripts for dynamic element handling
-- ✅ Introduced low-code automation solutions
-- ✅ Solved complex synchronization issues
-- ✅ Built custom reporting dashboards
-
-### **Collaboration & Communication**
-
-Experienced in working closely with developers, business analysts, and stakeholders to refine requirements. Strong in **knowledge sharing, documentation, and technical knowledge transfer** across teams. Known for reliability, attention to detail, and consistent delivery of results.
-
-**Key Achievements:**
-- ✅ Led knowledge-sharing sessions with development teams
-- ✅ Created comprehensive automation documentation
-- ✅ Built strong cross-functional partnerships
-- ✅ Established QA as a trusted advisory function
+- ✅ SLA validation & automated alerting
+- ✅ Microservices performance testing
+- ✅ P95, P99 latency monitoring
+- ✅ Performance regression detection
 
 ---
 
-## 🛠️ Technical Stack
+### **4️⃣ CI/CD & DevOps Integration**
 
-### **Languages**
+**Proficiency: 80%** ████████████████░░
+
+Integrated automation into **enterprise CI/CD pipelines**
+
+**Key Achievements:**
+- ✅ **45% bug escape reduction** via CI/CD integration
+- ✅ Feedback cycle: **4 hours → 15 minutes**
+- ✅ Automated production deployment gates
+- ✅ Jenkins (12+ years), GitHub Actions, GitLab CI
+- ✅ Maven & Gradle build automation
+- ✅ Continuous performance monitoring
+
+---
+
+### **5️⃣ Agile & Quality Leadership**
+
+**Proficiency: 85%** ████████████████░░
+
+Leading QA teams in **Agile/Scrum/SAFe** environments
+
+**Key Achievements:**
+- ✅ Mentored **8+ QA engineers** with hands-on guidance
+- ✅ Established coding standards (**20% quality improvement**)
+- ✅ **100% on-time delivery** in Agile sprints
+- ✅ Built high-performing QA teams
+- ✅ Sprint planning & backlog refinement
+- ✅ Best practices & knowledge transfer
+
+---
+
+### **6️⃣ Cross-Domain Expertise**
+
+**Proficiency: 90%** ███████████████████░░
+
+Tested across **multiple industries** with compliance expertise
+
+| Domain | Experience | Compliance |
+|--------|------------|-----------|
+| 🏦 **Banking & Finance** | On-Card Lending, Credit Cards, Lending Platforms | PCI-DSS, SOX |
+| 🛒 **Retail & E-commerce** | Shopping Platforms, Payment Gateways | PCI-DSS |
+| 📱 **Telecom** | Mobile Apps, Network Services | Telecom Standards |
+| 🏥 **Healthcare** | Patient Portals, Medical Devices | HIPAA, FDA |
+| 📈 **Insurance & Capital Markets** | Policy Management, Trading Platforms | SOX, SEC |
+
+---
+
+### **7️⃣ Problem Solving & Innovation**
+
+**Proficiency: 85%** ████████████████░░
+
+Driving **innovation** in test automation
+
+**Key Achievements:**
+- ✅ AI-enhanced scripts for dynamic UI element handling
+- ✅ Low-code automation solutions (**15% effort reduction**)
+- ✅ Solved complex synchronization challenges
+- ✅ Built custom analytics & reporting dashboards
+- ✅ Optimized Shadow DOM element handling (**40% improvement**)
+
+---
+
+### **8️⃣ Collaboration & Communication**
+
+**Proficiency: 90%** ███████████████████░░
+
+Strong **cross-functional** partnerships & knowledge sharing
+
+**Key Achievements:**
+- ✅ Comprehensive automation documentation
+- ✅ Regular technical talks & workshops
+- ✅ Strong developer-QA partnerships
+- ✅ Established QA as strategic advisory function
+- ✅ Effective stakeholder communication
+
+---
+
+## 📈 Learning Journey & Growth Timeline
 
 ```
-Java           ████████████████████░  12+ years, frameworks
-Python         ████████░░░░░░░░░░░░  Growing proficiency
-JavaScript     ███████░░░░░░░░░░░░░  Cypress, Playwright
-TypeScript     ███████░░░░░░░░░░░░░  Modern frameworks
-Bash/Shell     ██████░░░░░░░░░░░░░░  CI/CD scripting
+2012-2024                    2023-2024                2024-2025              2025+
+Foundation Building          Modern Stack             Infrastructure Focus   Emerging Tech
+═══════════════════════════════════════════════════════════════════════════════════════════
+│                            │                       │                      │
+├─ Java frameworks           ├─ Cypress              ├─ K6 testing          ├─ AI/ML
+├─ Selenium WebDriver        ├─ Playwright           ├─ Docker/Kubernetes   ├─ Security
+├─ Appium mobile             ├─ Python scripting     ├─ Grafana monitoring  ├─ Chaos eng
+├─ JMeter testing            ├─ JavaScript/TypeScript├─ Real-time alerts    └─ Advanced
+└─ Enterprise frameworks     └─ API-first testing    └─ Infrastructure      monitoring
+                                                       automation
 ```
-
-### **Automation & Testing Tools**
-
-| Category | Tools |
-|----------|-------|
-| **Web Testing** | Selenium, Cypress, Playwright |
-| **Mobile Testing** | Appium (real devices + emulators) |
-| **API Testing** | REST Assured, Postman, gRPC, Thunder Client |
-| **Performance** | K6 🔥, JMeter (legacy), Gatling |
-| **BDD** | Cucumber, Gherkin |
-| **Unit Testing** | TestNG, JUnit, Jest |
-
-### **Cloud & Infrastructure** 🆕
-
-| Category | Tools |
-|----------|-------|
-| **Cloud Platforms** | AWS (EC2, Lambda, S3, CloudWatch), GCP (Cloud Functions, Pub/Sub) |
-| **Containers** | Docker, Kubernetes, Podman |
-| **IaC & Config** | Terraform, CloudFormation, Ansible |
-| **Observability** | Prometheus, Grafana, ELK Stack, Datadog |
-| **Service Mesh** | Istio basics |
-
-### **CI/CD & DevOps**
-
-- **CI/CD Platforms:** Jenkins (12+ years), GitHub Actions, GitLab CI, CircleCI
-- **Build Tools:** Maven, Gradle, NPM/Yarn
-- **Version Control:** Git, GitHub, Bitbucket
-
-### **Project Management & Tools**
-
-- **Tools:** Jira, Confluence, Rally, Allure Reports, TestNG Reports
-- **OS:** Windows 11, macOS, Linux (Ubuntu)
-- **Cloud Testing:** BrowserStack, Sauce Labs, HeadSpin
 
 ---
 
 ## ⭐ Proficiency Matrix
 
-### Test Automation
-```
-████████████████████░ 95%
-```
-15+ years building enterprise frameworks
-
-### Performance Testing
-```
-████████████████░░░░░ 85%
-```
-K6, JMeter, load testing, SLA validation
-
-### API & Microservices Testing
-```
-███████████████████░░ 90%
-```
-REST Assured, contract testing, service integration
-
-### DevOps & Infrastructure
-```
-████████████████░░░░░ 80%
-```
-Docker, Kubernetes, CI/CD, infrastructure automation
-
-### Cloud Platforms (AWS/GCP)
-```
-███████████████░░░░░░ 75%
-```
-Core services, serverless, observability
-
-### Monitoring & Observability
-```
-██████████████░░░░░░░ 70%
-```
-Grafana, Prometheus, distributed tracing
-
-### Leadership & Mentoring
-```
-████████████████░░░░░ 85%
-```
-Team leadership, mentoring, best practices
+| Skill Area | Proficiency | Level | Notes |
+|-----------|-------------|-------|-------|
+| Test Automation | ████████████████████░░ 95% | 🏆 Expert | 12+ years experience |
+| Performance Testing | ██████████████████░░░░ 85% | 🎯 Advanced | K6 focus area |
+| API & Microservices | ███████████████████░░░ 90% | 🏆 Expert | Contract testing |
+| DevOps & Infrastructure | ██████████████████░░░░ 80% | 🎯 Advanced | Docker, K8s |
+| Cloud Platforms | █████████████████░░░░░ 75% | 🎯 Advanced | AWS, GCP |
+| Monitoring & Observability | ████████████████░░░░░░ 70% | 📊 Intermediate | Grafana, Prometheus |
+| Leadership & Mentoring | ██████████████████░░░░ 85% | 🏆 Expert | Team lead, mentoring |
 
 ---
 
-## 📚 Tech Stack Distribution
+## 📊 Tech Stack Distribution
 
 ```
-Web Automation (Selenium, Cypress, Playwright)    ████████░░░░░░░░░░░░ 25%
-Mobile Testing (Appium)                          ██████░░░░░░░░░░░░░░ 15%
-API Testing (REST Assured, Postman)              ███████░░░░░░░░░░░░░ 20%
-Performance Testing (K6)                         █████░░░░░░░░░░░░░░░ 15%
-DevOps/Infrastructure (Docker, K8s)              ███████░░░░░░░░░░░░░ 20%
-CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░░░░░░░░░░░ 5%
+Web Automation (Selenium, Cypress, Playwright)    ████████░░░░░░░░░░░░░░░░░░░░ 25%
+Mobile Testing (Appium)                          ██████░░░░░░░░░░░░░░░░░░░░░░ 15%
+API Testing (REST Assured, Postman)              ███████░░░░░░░░░░░░░░░░░░░░░ 20%
+Performance Testing (K6, JMeter)                 █████░░░░░░░░░░░░░░░░░░░░░░░ 15%
+DevOps/Infrastructure (Docker, K8s)              ███████░░░░░░░░░░░░░░░░░░░░░ 20%
+CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
 ```
-
----
-
-## 📈 Learning Journey
-
-### **12 Years Foundation** (2012-2024)
-Traditional test automation mastery
-- Java-based frameworks
-- Selenium WebDriver expertise
-- Appium mobile automation
-- JMeter performance testing
-- TestNG, JUnit
-
-### **Recent Expansion** (2023-2024)
-Modern frameworks & language evolution
-- Cypress for web automation
-- Playwright adoption
-- Python scripting & utilities
-- JavaScript/TypeScript
-- API-first testing approach
-
-### **🔥 Current Focus** (2024-2025)
-Infrastructure-first QA & observability
-- **K6 performance testing** — Production-grade load testing
-- **Docker/Kubernetes** — Container orchestration
-- **Grafana/Prometheus** — Real-time monitoring
-- **Python advanced** — Data processing, automation
-- **API security** — OWASP, penetration testing
-
-### **Next Frontier** (2025+)
-Emerging & advanced technologies
-- AI/ML-enhanced testing
-- Security testing & chaos engineering
-- Advanced contract testing
-- Distributed tracing & observability
 
 ---
 
 ## 🎓 Currently Learning & Building
 
-- 🔥 **K6 + Grafana Performance Testing** — Production-grade load testing frameworks
-- 🐍 **Python Advanced** — Data processing, test utilities, performance scripts
-- ☸️ **Kubernetes Test Orchestration** — Running tests at scale in K8s clusters
-- 📈 **Observability & Monitoring** — Prometheus, distributed tracing, alerting
-- 🔐 **API Security Testing** — OWASP testing, penetration testing basics
+| Technology | Status | Focus Area |
+|-----------|--------|-----------|
+| 🔥 **K6 + Grafana** | 🚀 Active | Production load testing, real-time dashboards |
+| 🐍 **Python Advanced** | 🚀 Active | Data processing, test utilities, automation |
+| ☸️ **Kubernetes** | 📚 In Progress | Test orchestration at scale |
+| 📈 **Prometheus** | 📚 In Progress | Metrics collection & alerting |
+| 🔐 **API Security** | 📚 In Progress | OWASP testing, penetration testing |
+| 🎮 **Chaos Engineering** | 📖 Planning | Failure scenario testing |
+
+---
+
+## 📚 Featured Projects
+
+### 🔥 **K6-Performance-Testing** 
+
+**Production-Grade Load Testing Framework with Grafana Dashboards**
+
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+
+**Features:**
+- ✅ Real-world e-commerce & API load scenarios
+- ✅ Grafana integration for real-time dashboards
+- ✅ SLA validation in CI/CD pipeline
+- ✅ Docker-based environment setup
+- ✅ Microservices performance testing
+- ✅ Custom metrics & reporting
+
+**[View Repository](https://github.com/Vijay-Durairaj/k6-performance-testing)**
+
+---
+
+### **Playwright_Framework**
+
+**Modern Web Automation in TypeScript**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Features:**
+- ✅ Cross-browser testing (Chrome, Firefox, Safari, Edge)
+- ✅ Parallel execution for speed
+- ✅ BDD with Cucumber integration
+- ✅ Screenshots & videos on failure
+- ✅ Jenkins CI/CD pipeline ready
+
+**[View Repository](https://github.com/Vijay-Durairaj/Playwright_Framework)**
+
+---
+
+### **SeleniumFramework**
+
+**Enterprise-Scale Selenium Framework**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=flat-square&logo=testng&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+
+**Features:**
+- ✅ 10K+ daily test cases execution
+- ✅ POM (Page Object Model) architecture
+- ✅ Data-driven testing
+- ✅ Parallel execution (50+ VUs)
+- ✅ Allure reporting
+- ✅ Cross-browser support
+
+**[View Repository](https://github.com/Vijay-Durairaj/SeleniumFramework)**
+
+---
+
+### **MicroservicesTestFramework**
+
+**API & Contract Testing for Microservices**
+
+![REST Assured](https://img.shields.io/badge/REST%20Assured-009B77?style=flat-square&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Features:**
+- ✅ REST API endpoint testing
+- ✅ Contract testing
+- ✅ Service dependency validation
+- ✅ Custom assertion libraries
+- ✅ Performance benchmarking
+
+**[View Repository](https://github.com/Vijay-Durairaj/MicroservicesTestFramework)**
 
 ---
 
@@ -272,55 +355,50 @@ Emerging & advanced technologies
 
 > **"Great test automation is invisible—it catches bugs before production without slowing down the team."**
 
-### I Believe In:
+**Core Beliefs:**
 
-- **Automation that scales** — Build once, reuse everywhere
-- **Infrastructure-first thinking** — Your tests are only as reliable as their infrastructure
-- **Observability over reports** — Real-time dashboards beat manual report generation
-- **Quality as shared responsibility** — QA engineers should enable developers, not police them
-- **Continuous learning** — The QA stack evolves fast; standing still is falling behind
-
----
-
-## 📚 Featured Projects
-
-### **[Playwright_Framework](https://github.com/Vijay-Durairaj/Playwright_Framework)**
-Modern web automation in TypeScript
-
-**Features:**
-- Cross-browser testing (Chrome, Firefox, Safari)
-- Parallel execution
-- BDD with Cucumber
-- Screenshots & videos on failure
-- Jenkins integration
-
-**Tech:** Playwright, TypeScript, Cucumber, Jenkins
-
----
-
-### **[SeleniumFramework](https://github.com/Vijay-Durairaj/SeleniumFramework)**
-Enterprise-scale Selenium with 10K+ daily tests
-
-**Features:**
-- POM design pattern
-- Data-driven testing
-- Parallel execution (50+ VUs)
-- Allure reporting
-- Cross-browser support
-
-**Tech:** Selenium, Java, TestNG, Maven, Jenkins
+✅ **Automation that scales** — Build once, reuse everywhere  
+✅ **Infrastructure-first** — Tests are only as reliable as infrastructure  
+✅ **Observability over reports** — Real-time dashboards beat manual reports  
+✅ **Quality as shared responsibility** — Enable developers, don't police them  
+✅ **Continuous learning** — QA stack evolves; stagnation = falling behind  
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [in/vijay-durairaj](https://www.linkedin.com/in/vijay-durairaj/)
-- 🐙 **GitHub:** [Vijay-Durairaj](https://github.com/Vijay-Durairaj)
-- 📧 **Email:** [vijaydurairajd@gmail.com](mailto:vijaydurairajd@gmail.com)
-- 📝 **Blog:** Coming soon on K6 & performance testing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-durairaj/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijay-Durairaj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijay.qa@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VijayQA)
 
-Open to discussing:
-- Test automation strategy
-- DevOps & CI/CD integration
-- Performance testing & K6
-- Helping teams modernize their QA stack
+**Open to discussing:**
+- 🎯 Test automation strategy & framework design
+- 🚀 DevOps & CI/CD integration
+- 📊 Performance testing & K6 frameworks
+- ☁️ Infrastructure automation & cloud testing
+- 🏆 QA leadership & mentoring
+
+---
+
+## 📈 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay-Durairaj&show_icons=true&theme=dark&hide_border=true)](https://github.com/Vijay-Durairaj)
+
+---
+
+## 🎯 Summary
+
+| Category | Highlights |
+|----------|-----------|
+| **Experience** | 12+ years in QA automation engineering |
+| **Expertise** | Framework design, performance testing, DevOps |
+| **Current Focus** | K6 load testing, Python frameworks, infrastructure automation |
+| **Leadership** | Mentored 8+ engineers, established best practices |
+| **Achievements** | 60% faster execution, 99.5% reliability, 45% bug reduction |
+| **Tech Stack** | 40+ technologies across web, mobile, API, cloud, DevOps |
+| **Philosophy** | Build scalable, maintainable automation that enables teams |
+
+---
+
+**Skills:** Test Automation | QA Engineering | K6 Performance Testing | DevOps | CI/CD | Cloud Testing | Leadership | Mentoring
