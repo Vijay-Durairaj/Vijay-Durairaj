@@ -2,7 +2,7 @@
 
 **🚀 Senior QA Automation Engineer** | **12+ years** building scalable test automation | **Now modernizing with K6, Python & Infrastructure Testing**
 
-📍 New Jersey, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-durairaj/) | 💼 [Portfolio](#-featured-projects) | 📧 [Email](mailto:vijay.qa@example.com)
+📍 New Jersey, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-durairaj/) | 💼 [Projects](#-featured-projects) | 📧 [Email](mailto:vijay.qa@example.com)
 
 ---
 
@@ -48,7 +48,7 @@ I engineer test automation solutions that **scale with products**. My strength: 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-16A085?style=for-the-badge&logo=appium&logoColor=white)
 
-### **🔥 Performance & Load Testing**
+### **🔥 Performance & Load Testing (NEW FOCUS)**
 
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D84315?style=for-the-badge&logo=apache&logoColor=white)
@@ -232,13 +232,13 @@ Foundation Building          Modern Stack             Infrastructure Focus   Eme
 
 | Skill Area | Proficiency | Level | Notes |
 |-----------|-------------|-------|-------|
-| Test Automation | ████████████████████░░ 95% | 🏆 Expert | 12+ years experience |
-| Performance Testing | ██████████████████░░░░ 85% | 🎯 Advanced | K6 focus area |
-| API & Microservices | ███████████████████░░░ 90% | 🏆 Expert | Contract testing |
-| DevOps & Infrastructure | ██████████████████░░░░ 80% | 🎯 Advanced | Docker, K8s |
-| Cloud Platforms | █████████████████░░░░░ 75% | 🎯 Advanced | AWS, GCP |
-| Monitoring & Observability | ████████████████░░░░░░ 70% | 📊 Intermediate | Grafana, Prometheus |
-| Leadership & Mentoring | ██████████████████░░░░ 85% | 🏆 Expert | Team lead, mentoring |
+| **Test Automation** | ████████████████████░░ 95% | 🏆 Expert | 12+ years |
+| **Performance Testing** | ██████████████████░░░░ 85% | 🎯 Advanced | K6 focus |
+| **API & Microservices** | ███████████████████░░░ 90% | 🏆 Expert | Contract testing |
+| **DevOps & Infrastructure** | ██████████████████░░░░ 80% | 🎯 Advanced | Docker, K8s |
+| **Cloud Platforms** | █████████████████░░░░░ 75% | 🎯 Advanced | AWS, GCP |
+| **Monitoring & Observability** | ████████████████░░░░░░ 70% | 📊 Intermediate | Grafana, Prometheus |
+| **Leadership & Mentoring** | ██████████████████░░░░ 85% | 🏆 Expert | Team lead |
 
 ---
 
@@ -264,20 +264,18 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 | ☸️ **Kubernetes** | 📚 In Progress | Test orchestration at scale |
 | 📈 **Prometheus** | 📚 In Progress | Metrics collection & alerting |
 | 🔐 **API Security** | 📚 In Progress | OWASP testing, penetration testing |
-| 🎮 **Chaos Engineering** | 📖 Planning | Failure scenario testing |
 
 ---
 
 ## 📚 Featured Projects
 
-### 🔥 **K6-Performance-Testing** 
+### 🔥 **K6-Performance-Testing**
 
 **Production-Grade Load Testing Framework with Grafana Dashboards**
 
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
 **Features:**
 - ✅ Real-world e-commerce & API load scenarios
@@ -285,9 +283,6 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 - ✅ SLA validation in CI/CD pipeline
 - ✅ Docker-based environment setup
 - ✅ Microservices performance testing
-- ✅ Custom metrics & reporting
-
-**[View Repository](https://github.com/Vijay-Durairaj/k6-performance-testing)**
 
 ---
 
@@ -298,14 +293,12 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Features:**
 - ✅ Cross-browser testing (Chrome, Firefox, Safari, Edge)
-- ✅ Parallel execution for speed
-- ✅ BDD with Cucumber integration
+- ✅ Parallel execution
+- ✅ BDD with Cucumber
 - ✅ Screenshots & videos on failure
-- ✅ Jenkins CI/CD pipeline ready
 
 **[View Repository](https://github.com/Vijay-Durairaj/Playwright_Framework)**
 
@@ -318,15 +311,12 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=flat-square&logo=testng&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 **Features:**
 - ✅ 10K+ daily test cases execution
-- ✅ POM (Page Object Model) architecture
+- ✅ POM architecture
 - ✅ Data-driven testing
-- ✅ Parallel execution (50+ VUs)
 - ✅ Allure reporting
-- ✅ Cross-browser support
 
 **[View Repository](https://github.com/Vijay-Durairaj/SeleniumFramework)**
 
@@ -344,7 +334,6 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 - ✅ REST API endpoint testing
 - ✅ Contract testing
 - ✅ Service dependency validation
-- ✅ Custom assertion libraries
 - ✅ Performance benchmarking
 
 **[View Repository](https://github.com/Vijay-Durairaj/MicroservicesTestFramework)**
@@ -370,7 +359,6 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-durairaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijay-Durairaj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijay.qa@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VijayQA)
 
 **Open to discussing:**
 - 🎯 Test automation strategy & framework design
@@ -381,9 +369,14 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay-Durairaj&show_icons=true&theme=dark&hide_border=true)](https://github.com/Vijay-Durairaj)
+**Total Repositories:** 4+ active projects  
+**Primary Languages:** Java, Python, JavaScript, TypeScript  
+**Focus Areas:** Test Automation, Performance Testing, DevOps  
+**Latest Projects:** K6 Performance Testing, Playwright Framework  
+
+**[Visit GitHub Profile](https://github.com/Vijay-Durairaj)**
 
 ---
 
@@ -399,6 +392,3 @@ CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░�
 | **Tech Stack** | 40+ technologies across web, mobile, API, cloud, DevOps |
 | **Philosophy** | Build scalable, maintainable automation that enables teams |
 
----
-
-**Skills:** Test Automation | QA Engineering | K6 Performance Testing | DevOps | CI/CD | Cloud Testing | Leadership | Mentoring
