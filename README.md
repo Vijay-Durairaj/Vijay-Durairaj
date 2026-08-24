@@ -216,7 +216,7 @@ Team leadership, mentoring, best practices
 Web Automation (Selenium, Cypress, Playwright)    ████████░░░░░░░░░░░░ 25%
 Mobile Testing (Appium)                          ██████░░░░░░░░░░░░░░ 15%
 API Testing (REST Assured, Postman)              ███████░░░░░░░░░░░░░ 20%
-Performance Testing (K6, JMeter)                 █████░░░░░░░░░░░░░░░ 15%
+Performance Testing (K6)                         █████░░░░░░░░░░░░░░░ 15%
 DevOps/Infrastructure (Docker, K8s)              ███████░░░░░░░░░░░░░ 20%
 CI/CD & Tools (Jenkins, GitHub Actions)          ███░░░░░░░░░░░░░░░░░ 5%
 ```
@@ -284,20 +284,6 @@ Emerging & advanced technologies
 
 ## 📚 Featured Projects
 
-### **🔥 [K6-Performance-Testing](https://github.com/Vijay-Durairaj/k6-performance-testing)**
-Production-grade load testing framework with Grafana dashboards
-
-**Features:**
-- Real-world e-commerce & API scenarios
-- Grafana integration for real-time dashboards
-- SLA validation in CI/CD
-- Docker-based setup
-- Microservices performance testing
-
-**Tech:** K6, Grafana, InfluxDB, Docker
-
----
-
 ### **[Playwright_Framework](https://github.com/Vijay-Durairaj/Playwright_Framework)**
 Modern web automation in TypeScript
 
@@ -326,25 +312,11 @@ Enterprise-scale Selenium with 10K+ daily tests
 
 ---
 
-### **[MicroservicesTestFramework](https://github.com/Vijay-Durairaj/MicroservicesTestFramework)**
-API & contract testing for microservices
-
-**Features:**
-- API endpoint testing
-- Contract testing (Pact)
-- Service dependency testing
-- Custom assertion libraries
-- Performance benchmarking
-
-**Tech:** REST Assured, Java, Pact, Postman
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [in/vijay-durairaj](https://www.linkedin.com/in/vijay-durairaj/)
 - 🐙 **GitHub:** [Vijay-Durairaj](https://github.com/Vijay-Durairaj)
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email:** [vijaydurairajd@gmail.com](mailto:vijaydurairajd@gmail.com)
 - 📝 **Blog:** Coming soon on K6 & performance testing
 
 Open to discussing:
